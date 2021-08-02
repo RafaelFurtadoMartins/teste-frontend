@@ -1,0 +1,18 @@
+h1{
+    left:7%;
+    top:9%;
+}
+h2{
+    left:7%;
+    top:9%;
+    display: flex;
+}
+#book-create
+{
+  position:relative;
+  left:7%;
+  top:9%;
+  width:320px;
+  height:270px;
+  
+}
